@@ -1,0 +1,28 @@
+# Simulado
+
+Eu só estou liberando um exerícios para vocês, que é o `exe2`. 
+
+Sobre a prova:
+
+- Você pode consultar qualquer material SEU, e que foi fornecido ao longo do curso.
+- Duraćão de 2h
+- **Não pode qualquer tipo de LLM**
+- Deve manter o SMOWL o tempo todo!
+
+## Prova
+
+A avaliaćão terá 4 exercícios sendo alguma coisa entre:
+
+- exe1: (baremetal) Linguagem C, GPIO, IRQ
+- exe2: (baermetal) Timer, ADC, PWM, GPIO, IRQ
+- exe3: (RTOS) Task, filas, semáforos, IRQ
+- exe4: Escolher qualquer exe anterior e rodar na placa (precisa mostrar)
+
+Todos exercícios (menos o 4) possuem teste automatizado que verifica:
+
+- Funcionalidade (wokwi)
+- Qualidade de código (embedded-check)
+- Rubrica (se vocês estão usando os recursos necessários)
+
+O de rubrica é algo novo, e verificamos por exemplo se você tá usando `sleep_ms` quando deveria utilizar somente o timer.
+
