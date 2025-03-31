@@ -1,6 +1,6 @@
 # Simulado
 
-Eu só estou liberando um exerícios para vocês, que é o `exe2`. 
+Eu só estou liberando um exerícios para vocês, que é o `exe2`, a solucao está no arquivo `main_solucao.c`. 
 
 Sobre a prova:
 
